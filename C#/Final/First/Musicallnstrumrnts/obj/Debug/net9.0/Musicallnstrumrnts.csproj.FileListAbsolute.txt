@@ -1,0 +1,14 @@
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\bin\Debug\net9.0\Musicallnstrumrnts.exe
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\bin\Debug\net9.0\Musicallnstrumrnts.deps.json
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\bin\Debug\net9.0\Musicallnstrumrnts.runtimeconfig.json
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\bin\Debug\net9.0\Musicallnstrumrnts.dll
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\bin\Debug\net9.0\Musicallnstrumrnts.pdb
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.AssemblyInfoInputs.cache
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.AssemblyInfo.cs
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.csproj.CoreCompileInputs.cache
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.dll
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\refint\Musicallnstrumrnts.dll
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.pdb
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\Musicallnstrumrnts.genruntimeconfig.cache
+C:\Users\aleja\CIS162v2\module07\Musicallnstrumrnts\obj\Debug\net9.0\ref\Musicallnstrumrnts.dll
