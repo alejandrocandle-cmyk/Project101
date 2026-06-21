@@ -1,0 +1,14 @@
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\bin\Debug\net9.0\RhythmRoom.exe
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\bin\Debug\net9.0\RhythmRoom.deps.json
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\bin\Debug\net9.0\RhythmRoom.runtimeconfig.json
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\bin\Debug\net9.0\RhythmRoom.dll
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\bin\Debug\net9.0\RhythmRoom.pdb
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.AssemblyInfoInputs.cache
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.AssemblyInfo.cs
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.csproj.CoreCompileInputs.cache
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.dll
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\refint\RhythmRoom.dll
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.pdb
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\RhythmRoom.genruntimeconfig.cache
+C:\Users\aleja\CIS162v2\Module10\RhythmRoom\obj\Debug\net9.0\ref\RhythmRoom.dll

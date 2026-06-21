@@ -1,0 +1,14 @@
+C:\Users\aleja\CIS162v2\Module10\MessyCode\bin\Debug\net9.0\MessyCode.exe
+C:\Users\aleja\CIS162v2\Module10\MessyCode\bin\Debug\net9.0\MessyCode.deps.json
+C:\Users\aleja\CIS162v2\Module10\MessyCode\bin\Debug\net9.0\MessyCode.runtimeconfig.json
+C:\Users\aleja\CIS162v2\Module10\MessyCode\bin\Debug\net9.0\MessyCode.dll
+C:\Users\aleja\CIS162v2\Module10\MessyCode\bin\Debug\net9.0\MessyCode.pdb
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.AssemblyInfoInputs.cache
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.AssemblyInfo.cs
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.csproj.CoreCompileInputs.cache
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.dll
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\refint\MessyCode.dll
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.pdb
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\MessyCode.genruntimeconfig.cache
+C:\Users\aleja\CIS162v2\Module10\MessyCode\obj\Debug\net9.0\ref\MessyCode.dll
