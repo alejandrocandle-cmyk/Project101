@@ -1,0 +1,14 @@
+C:\Users\aleja\CIS162v2\module07\LandPlot\bin\Debug\net9.0\LandPlot.exe
+C:\Users\aleja\CIS162v2\module07\LandPlot\bin\Debug\net9.0\LandPlot.deps.json
+C:\Users\aleja\CIS162v2\module07\LandPlot\bin\Debug\net9.0\LandPlot.runtimeconfig.json
+C:\Users\aleja\CIS162v2\module07\LandPlot\bin\Debug\net9.0\LandPlot.dll
+C:\Users\aleja\CIS162v2\module07\LandPlot\bin\Debug\net9.0\LandPlot.pdb
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.AssemblyInfoInputs.cache
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.AssemblyInfo.cs
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.csproj.CoreCompileInputs.cache
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.dll
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\refint\LandPlot.dll
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.pdb
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\LandPlot.genruntimeconfig.cache
+C:\Users\aleja\CIS162v2\module07\LandPlot\obj\Debug\net9.0\ref\LandPlot.dll

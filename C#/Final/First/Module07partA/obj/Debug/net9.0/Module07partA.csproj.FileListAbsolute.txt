@@ -1,0 +1,14 @@
+C:\Users\aleja\CIS162v2\module07\Module07partA\bin\Debug\net9.0\Module07partA.exe
+C:\Users\aleja\CIS162v2\module07\Module07partA\bin\Debug\net9.0\Module07partA.deps.json
+C:\Users\aleja\CIS162v2\module07\Module07partA\bin\Debug\net9.0\Module07partA.runtimeconfig.json
+C:\Users\aleja\CIS162v2\module07\Module07partA\bin\Debug\net9.0\Module07partA.dll
+C:\Users\aleja\CIS162v2\module07\Module07partA\bin\Debug\net9.0\Module07partA.pdb
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.AssemblyInfoInputs.cache
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.AssemblyInfo.cs
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.csproj.CoreCompileInputs.cache
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.dll
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\refint\Module07partA.dll
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.pdb
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\Module07partA.genruntimeconfig.cache
+C:\Users\aleja\CIS162v2\module07\Module07partA\obj\Debug\net9.0\ref\Module07partA.dll
